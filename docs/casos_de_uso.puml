@@ -1,0 +1,31 @@
+@startuml
+' Aluno: Paulo Vinicius Santos Oliveira | Disciplina: 26E4_5
+title Biblioteca Universitária - TP1
+left to right direction
+actor Membro as M
+actor "Bibliotecário / Administrador" as B
+rectangle "Sistema de Gestão de Biblioteca Universitária" {
+  usecase "UC01\nConsultar acervo" as C
+  usecase "UC02\nProcessar empréstimo" as E
+  usecase "UC03\nProcessar devolução" as D
+  usecase "UC04\nSolicitar reserva" as R
+  usecase "UC05\nCadastrar acervo" as A
+  usecase "UC06\nCadastrar membro" as U
+  usecase "UC07\nAplicar multa por atraso" as F
+}
+M -- C
+M -- E
+M -- D
+M -- R
+B -- E
+B -- D
+B -- A
+B -- U
+B -- F
+F ..> D : <<extend>>\n[há atraso]
+note bottom of R
+Reserva vinculada ao Livro e ao Membro.
+Exemplar de referência deve estar emprestado.
+Interpretação sujeita à validação do professor.
+end note
+@enduml
