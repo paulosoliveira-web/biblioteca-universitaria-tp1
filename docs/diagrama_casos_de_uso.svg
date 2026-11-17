@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg
+  PUBLIC '-//W3C//DTD SVG 1.0//EN'
+  'http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd'>
+<svg width="490" height="510" preserveAspectRatio="xMinYMin meet" viewBox="0 0 490 510" xmlns="http://www.w3.org/2000/svg" version="1.0" fill-rule="evenodd" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>...</title>
+	<desc>...</desc>
+	<clipPath id="clip">
+		<rect x="0" y="0" width="490" height="510"/>
+	</clipPath>
+	<g id="group" transform="scale(1,-1) translate(0,-510)" style="clip-path: url(#clip)">
+		<g transform="">
+			<rect x="140" y="35" width="338" height="445" style="stroke: rgb(9%,22%,32%); stroke-linecap: butt; stroke-width: 1; fill: rgb(96%,98%,98%); fill-rule: evenodd;"/>
+			<text x="217.68408203125" y="463" style="font-family: DVB; font-size: 10px;fill: rgb(9%,22%,32%); stroke:none;" transform="translate(0,926) scale(1,-1)">Sistema de Gestão de Biblioteca</text>
+			<circle cx="35" cy="410" r="8" style="stroke: rgb(9%,22%,32%); stroke-linecap: butt; stroke-width: 1; fill: none; fill-rule: evenodd;"/>
+			<path d="M 35,402 L 35,377 Z" style="stroke: rgb(9%,22%,32%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 35,392 L 21,392 Z" style="stroke: rgb(9%,22%,32%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 35,392 L 49,392 Z" style="stroke: rgb(9%,22%,32%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 35,377 L 23,360 Z" style="stroke: rgb(9%,22%,32%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 35,377 L 47,360 Z" style="stroke: rgb(9%,22%,32%); stroke-linecap: butt; stroke-width: 1;"/>
+			<text x="18.560546875" y="344" style="font-family: DV; font-size: 8px;fill: rgb(9%,22%,32%); stroke:none;" transform="translate(0,688) scale(1,-1)">Membro</text>
+			<circle cx="35" cy="175" r="8" style="stroke: rgb(9%,22%,32%); stroke-linecap: butt; stroke-width: 1; fill: none; fill-rule: evenodd;"/>
+			<path d="M 35,167 L 35,142 Z" style="stroke: rgb(9%,22%,32%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 35,157 L 21,157 Z" style="stroke: rgb(9%,22%,32%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 35,157 L 49,157 Z" style="stroke: rgb(9%,22%,32%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 35,142 L 23,125 Z" style="stroke: rgb(9%,22%,32%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 35,142 L 47,125 Z" style="stroke: rgb(9%,22%,32%); stroke-linecap: butt; stroke-width: 1;"/>
+			<text x="7.43359375" y="109" style="font-family: DV; font-size: 8px;fill: rgb(9%,22%,32%); stroke:none;" transform="translate(0,218) scale(1,-1)">Bibliotecário /</text>
+			<text x="6.69140625" y="98" style="font-family: DV; font-size: 8px;fill: rgb(9%,22%,32%); stroke:none;" transform="translate(0,196) scale(1,-1)">Administrador</text>
+			<path d="M 50,385 L 205,425 Z" style="stroke: rgb(32%,38%,45%); stroke-linecap: butt; stroke-width: 0.65;"/>
+			<path d="M 50,385 L 205,365 Z" style="stroke: rgb(32%,38%,45%); stroke-linecap: butt; stroke-width: 0.65;"/>
+			<path d="M 50,385 L 205,305 Z" style="stroke: rgb(32%,38%,45%); stroke-linecap: butt; stroke-width: 0.65;"/>
+			<path d="M 50,385 L 205,245 Z" style="stroke: rgb(32%,38%,45%); stroke-linecap: butt; stroke-width: 0.65;"/>
+			<path d="M 50,150 L 205,365 Z" style="stroke: rgb(32%,38%,45%); stroke-linecap: butt; stroke-width: 0.65;"/>
+			<path d="M 50,150 L 205,305 Z" style="stroke: rgb(32%,38%,45%); stroke-linecap: butt; stroke-width: 0.65;"/>
+			<path d="M 50,150 L 205,185 Z" style="stroke: rgb(32%,38%,45%); stroke-linecap: butt; stroke-width: 0.65;"/>
+			<path d="M 50,150 L 205,125 Z" style="stroke: rgb(32%,38%,45%); stroke-linecap: butt; stroke-width: 0.65;"/>
+			<path d="M 50,150 L 205,65 Z" style="stroke: rgb(32%,38%,45%); stroke-linecap: butt; stroke-width: 0.65;"/>
+			<ellipse cx="300.0" cy="425.0" rx="95.0" ry="22.0" style="stroke: rgb(3%,49%,54%); stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="288.25" y="428" style="font-family: DVB; font-size: 8px;fill: rgb(9%,22%,32%); stroke:none;" transform="translate(0,856) scale(1,-1)">UC01</text>
+			<text x="265.98828125" y="415" style="font-family: DV; font-size: 8px;fill: rgb(9%,22%,32%); stroke:none;" transform="translate(0,830) scale(1,-1)">Consultar acervo</text>
+			<ellipse cx="300.0" cy="365.0" rx="95.0" ry="22.0" style="stroke: rgb(3%,49%,54%); stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="288.25" y="368" style="font-family: DVB; font-size: 8px;fill: rgb(9%,22%,32%); stroke:none;" transform="translate(0,736) scale(1,-1)">UC02</text>
+			<text x="255.19140625" y="355" style="font-family: DV; font-size: 8px;fill: rgb(9%,22%,32%); stroke:none;" transform="translate(0,710) scale(1,-1)">Processar empréstimo</text>
+			<ellipse cx="300.0" cy="305.0" rx="95.0" ry="22.0" style="stroke: rgb(3%,49%,54%); stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="288.25" y="308" style="font-family: DVB; font-size: 8px;fill: rgb(9%,22%,32%); stroke:none;" transform="translate(0,616) scale(1,-1)">UC03</text>
+			<text x="258.7421875" y="295" style="font-family: DV; font-size: 8px;fill: rgb(9%,22%,32%); stroke:none;" transform="translate(0,590) scale(1,-1)">Processar devolução</text>
+			<ellipse cx="300.0" cy="245.0" rx="95.0" ry="22.0" style="stroke: rgb(3%,49%,54%); stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="288.25" y="248" style="font-family: DVB; font-size: 8px;fill: rgb(9%,22%,32%); stroke:none;" transform="translate(0,496) scale(1,-1)">UC04</text>
+			<text x="267.431640625" y="235" style="font-family: DV; font-size: 8px;fill: rgb(9%,22%,32%); stroke:none;" transform="translate(0,470) scale(1,-1)">Solicitar reserva</text>
+			<ellipse cx="300.0" cy="185.0" rx="95.0" ry="22.0" style="stroke: rgb(3%,49%,54%); stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="288.25" y="188" style="font-family: DVB; font-size: 8px;fill: rgb(9%,22%,32%); stroke:none;" transform="translate(0,376) scale(1,-1)">UC05</text>
+			<text x="265.53125" y="175" style="font-family: DV; font-size: 8px;fill: rgb(9%,22%,32%); stroke:none;" transform="translate(0,350) scale(1,-1)">Cadastrar acervo</text>
+			<ellipse cx="300.0" cy="125.0" rx="95.0" ry="22.0" style="stroke: rgb(3%,49%,54%); stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="288.25" y="128" style="font-family: DVB; font-size: 8px;fill: rgb(9%,22%,32%); stroke:none;" transform="translate(0,256) scale(1,-1)">UC06</text>
+			<text x="262.216796875" y="115" style="font-family: DV; font-size: 8px;fill: rgb(9%,22%,32%); stroke:none;" transform="translate(0,230) scale(1,-1)">Cadastrar membro</text>
+			<ellipse cx="300.0" cy="65.0" rx="95.0" ry="22.0" style="stroke: rgb(3%,49%,54%); stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="288.25" y="68" style="font-family: DVB; font-size: 8px;fill: rgb(9%,22%,32%); stroke:none;" transform="translate(0,136) scale(1,-1)">UC07</text>
+			<text x="251.552734375" y="55" style="font-family: DV; font-size: 8px;fill: rgb(9%,22%,32%); stroke:none;" transform="translate(0,110) scale(1,-1)">Aplicar multa por atraso</text>
+			<polyline points="395 65, 462 65, 462 305, 395 305" style="stroke: rgb(32%,38%,45%); stroke-linecap: butt; stroke-width: 0.8; fill: None; fill-rule: evenodd; stroke-dasharray: 4, 3;"/>
+			<path d="M 395,305 L 402,310 Z" style="stroke: rgb(32%,38%,45%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 395,305 L 402,300 Z" style="stroke: rgb(32%,38%,45%); stroke-linecap: butt; stroke-width: 1;"/>
+			<text x="421.662109375" y="206" style="font-family: DV; font-size: 8px;fill: rgb(32%,38%,45%); stroke:none;" transform="translate(0,412) scale(1,-1)">&lt;&lt;extend&gt;&gt;</text>
+			<text x="412.974609375" y="191" style="font-family: DV; font-size: 8px;fill: rgb(32%,38%,45%); stroke:none;" transform="translate(0,382) scale(1,-1)">[há atraso]</text>
+			<text x="145.45849609375" y="12" style="font-family: DV; font-size: 7px;fill: rgb(32%,38%,45%); stroke:none;" transform="translate(0,24) scale(1,-1)">Aluno: Paulo Vinicius Santos Oliveira | Disciplina: 26E4_5</text>
+		</g>
+	</g>
+</svg>
